@@ -1,0 +1,4 @@
+cookbooks/
+
+*local*
+*.lock
