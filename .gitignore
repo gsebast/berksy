@@ -1,4 +1,6 @@
 cookbooks/
+.idea/
 
 *local*
 *.lock
+*.iml
